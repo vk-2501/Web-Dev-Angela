@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(118, 175, 201)
+}
+
+hr{
+    /* background-color:white; */
+    border-style: none;
+    border-top-style:dotted;
+    border-width: 10px;
+    border-color:red;
+
+    width:10%;
+
+}
+
+h1 ,h3 {
+    color:blueviolet;
+}
+
